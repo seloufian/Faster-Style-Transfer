@@ -1,0 +1,12 @@
+gdown==4.5.1
+matplotlib==3.6.1
+numpy==1.23.4
+PIL==9.2.0
+
+# PyTorch Cuda GPU packages.
+torch==1.12.1+cu113
+torchvision==0.13.1+cu113
+
+# PyTorch CPU packages.
+# torch==1.12.1
+# torchvision==0.13.1
